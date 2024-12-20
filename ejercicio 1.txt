@@ -1,2 +1,6 @@
 Ejercicio 1 
+<<<<<<< HEAD
 todo correcto
+=======
+Conflicto entrante
+>>>>>>> rama_conflictiva
