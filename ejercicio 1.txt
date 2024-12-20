@@ -1,6 +1,4 @@
 Ejercicio 1 
-<<<<<<< HEAD
 todo correcto
-=======
 Conflicto entrante
->>>>>>> rama_conflictiva
+Proyecto Preparado para Tarea en casa 1 (grupo de 3)
